@@ -1,2 +1,2 @@
 # GenoPhenoRelation
-GenoPhenoRelation is a package that take in DNA sequence and phenotype of animals and visualize the data to see if the target gene affects this trait.
+GenoPhenoRelation is a package that take in DNA sequences and phenotypes of animals to visualize the data and see if the target gene affects a particular trait.
