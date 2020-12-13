@@ -6,8 +6,8 @@ Author@R: person("Xinyi", "Zhang", email = "luciaxinyi.zhang@mail.utoronto.ca",
                   role = c("aut", "cre")) 
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: GenoPhenoRelation is a package that take in DNA sequences and 
-    phenotypes of animals to visualize the data and see if the target gene affects 
-    a particular trait.
+    phenotypes of animals to visualize the data and see if the target nucleotide 
+    affects a particular trait.
 Depends: R (>= 3.1.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
