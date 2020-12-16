@@ -11,9 +11,4 @@
 # @source \url{https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPP2R3B&keywords=PPP2R3B}
 # @source \url{https://www.genecards.org/cgi-bin/carddisp.pl?gene=DIAPH2&keywords=DIAPH2}
 
-#Reference: Theisen, J., Sundaram, V., Filchak, M., Chorich, L., Sullivan,
-#M., Knight, J., . . . Layman, L. (2019, December 27).
-#The Use of Whole Exome Sequencing in a Cohort of Transgender Individuals to
-#Identify Rare Genetic Variants. use
-#Retrieved December 14, 2020,
-#from https://www.nature.com/articles/s41598-019-53500-y
+

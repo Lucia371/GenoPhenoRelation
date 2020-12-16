@@ -2,5 +2,4 @@
 #
 
 myFunction  <- function()
-  trait1 <- my.trait1
-  trait2 <- my.trait2
+
