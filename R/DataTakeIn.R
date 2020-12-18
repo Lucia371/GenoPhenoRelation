@@ -14,11 +14,11 @@ inputTrait <- function()
   print(paste("First trait", my.trait1, "saved."))
   my.trait2 <- readline(prompt = "Enter the second trait associated")
   print(paste("Second trait", my.trait2, "saved."))
-  trait_list <- list(my.trait1, my.trait2)
+  trait_list <- c(my.trait1, my.trait2)
   my.bool <- readline(prompt = "Do you need to enter more traits?")
   while (my.bool = "Yes"){
     my.trait <- readline(prompt = "Enter further trait associated")
-    list.append(trait_list, my.trait)
+    trait_list <- c(trait_list, my.trait)
   }
   return(trait_list)
 

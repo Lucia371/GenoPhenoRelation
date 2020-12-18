@@ -2,4 +2,6 @@
 #
 
 myFunction  <- function()
+  for (trait in trait_list) {
 
+  }

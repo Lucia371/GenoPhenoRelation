@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of GenoPhenoRelation is to …
+The goal of GenoPhenoRelation is to help genetic researchers study on single nucleotide polymorphism through taking in nucleotide data and phenotype data and 
+analysis while the nucleotide is related to the trait.
 
 ## Installation
 
@@ -21,6 +22,7 @@ install.packages("GenoPhenoRelation")
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
+
 
 ``` r
 library(GenoPhenoRelation)
